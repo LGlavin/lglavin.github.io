@@ -3,16 +3,16 @@
 # Site settings
 title: Liz Glavin Resume
 email: liz.glavin@yandex.com
-description: Jekyll Resume is a mega simple resume theme for Jekyll.
+description: Liz Glavin Resume
 baseurl: ""
 url: "http://lizglavin.com"
 name: Liz Glavin
 job: Web Developer
 location: Providence, RI
 languages: HTML, CSS and Javascript, PHP
-twitter_username: 
+# twitter_username: 
 github_username:  lglavin
-codepen_username:  
+# codepen_username:  
 email_address: liz.glavin@yandex.com
 
 # Build settings
